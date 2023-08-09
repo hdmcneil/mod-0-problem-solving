@@ -1,4 +1,6 @@
-# Goals - write a method
+# Goals - write a method how much taxes due based on annual income
+# method needs to accept integer arguement representing annual income
+#return amt owed in taxes
 
 # Psuedocode
 # Define method(annual_income)
